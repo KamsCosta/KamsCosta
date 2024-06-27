@@ -1,0 +1,67 @@
+body {
+    background-color: #192a56; /* Cor de fundo escura */
+    color: #f5f6fa;
+    font-family: 'Arial', sans-serif;
+}
+
+.card-header {
+    background-color: #273c75;
+    border-bottom: 2px solid #fbc531;
+}
+
+.card-body {
+    background-color: #273c75;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    color: #fbc531;
+}
+
+.card-text {
+    font-size: 2rem;
+    color: #fbc531;
+}
+
+.btn-group .btn {
+    margin: 0 5px;
+}
+
+.list-group-item {
+    background-color: #273c75;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.list-group-item img {
+    margin-right: 10px;
+}
+
+.menu-icon {
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.badge-success {
+    background-color: #4cd137;
+}
+
+.badge-danger {
+    background-color: #e84118;
+}
+
+.badge-warning {
+    background-color: #fbc531;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+}
+
+.user-info span {
+    font-size: 1.1rem;
+    color: #ffffff; /* Altere esta cor para branco */
+}
