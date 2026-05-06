@@ -65,7 +65,7 @@
 ### Vamos nos conectar?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI/" target="_blank">
+  <a href="https://www.linkedin.com/in/kamila-costa-b504a6225/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/KamsCosta" target="_blank">
