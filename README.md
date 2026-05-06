@@ -11,10 +11,11 @@
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### Sobre mim
+### 👩‍💻 Sobre mim
 
 - 💜 Desenvolvedora **Fullstack Júnior**
-- 🎯 Atualmente aprimorando minhas habilidades em **C#**, **.NET** e **Frontend**
+- 💼 Atualmente: **Analista de Desenvolvimento Júnior** na [@neogrid](https://github.com/neogrid)
+- 🎯 Aprimorando minhas habilidades em **C#**, **.NET** e **Frontend**
 - 🚀 Apaixonada por desafios e aprendizado contínuo
 - 🌎 Brasil — Santa Catarina
 - 💬 *"O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis."* — **José de Alencar**
@@ -23,7 +24,7 @@
 
 ---
 
-### Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
 #### Frontend
 <p>
@@ -49,7 +50,7 @@
 
 ---
 
-### Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KamsCosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -62,7 +63,7 @@
 
 ---
 
-### Vamos nos conectar?
+### 🌐 Vamos nos conectar?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kamila-costa-b504a6225/" target="_blank">
